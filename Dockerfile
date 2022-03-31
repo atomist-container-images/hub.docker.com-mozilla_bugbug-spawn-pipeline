@@ -1,9 +1,27 @@
-# Tags: latest, v0.0.453
+# Tags: latest, v0.0.468
 FROM mozilla/bugbug-spawn-pipeline:latest
-FROM mozilla/bugbug-spawn-pipeline:v0.0.453
+FROM mozilla/bugbug-spawn-pipeline:v0.0.468
 
-# Tags: v0.0.451
-FROM mozilla/bugbug-spawn-pipeline:v0.0.451
+# Tags: v0.0.467
+FROM mozilla/bugbug-spawn-pipeline:v0.0.467
 
-# Tags: v0.0.452
-FROM mozilla/bugbug-spawn-pipeline:v0.0.452
+# Tags: v0.0.466
+FROM mozilla/bugbug-spawn-pipeline:v0.0.466
+
+# Tags: v0.0.465
+FROM mozilla/bugbug-spawn-pipeline:v0.0.465
+
+# Tags: v0.0.464
+FROM mozilla/bugbug-spawn-pipeline:v0.0.464
+
+# Tags: v0.0.463
+FROM mozilla/bugbug-spawn-pipeline:v0.0.463
+
+# Tags: v0.0.462
+FROM mozilla/bugbug-spawn-pipeline:v0.0.462
+
+# Tags: v0.0.461
+FROM mozilla/bugbug-spawn-pipeline:v0.0.461
+
+# Tags: v0.0.460
+FROM mozilla/bugbug-spawn-pipeline:v0.0.460
