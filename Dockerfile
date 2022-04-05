@@ -1,5 +1,8 @@
-# Tags: latest, v0.0.468
+# Tags: latest, v0.0.469
 FROM mozilla/bugbug-spawn-pipeline:latest
+FROM mozilla/bugbug-spawn-pipeline:v0.0.469
+
+# Tags: v0.0.468
 FROM mozilla/bugbug-spawn-pipeline:v0.0.468
 
 # Tags: v0.0.467
@@ -22,6 +25,3 @@ FROM mozilla/bugbug-spawn-pipeline:v0.0.462
 
 # Tags: v0.0.461
 FROM mozilla/bugbug-spawn-pipeline:v0.0.461
-
-# Tags: v0.0.460
-FROM mozilla/bugbug-spawn-pipeline:v0.0.460
